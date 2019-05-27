@@ -1,0 +1,10 @@
+input {
+    padding: 0px 10px;
+    border: none;
+    background-color: wheat;
+    outline: none;
+}
+
+button {
+    height: 15px;
+}
